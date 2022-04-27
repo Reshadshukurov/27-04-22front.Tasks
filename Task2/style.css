@@ -1,0 +1,96 @@
+*{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+.top-left1{
+    text-align: center;
+    padding-bottom: 5px;
+    width: 20%;
+    height: 40px;
+    border: 1px solid gray;
+    background-color:blanchedalmond;
+    float: left;
+}
+.top-right1{
+    text-align: center;
+    padding-bottom: 5px;
+    width: 75%;
+    height: 40px;
+    border: 1px solid gray;
+    background-color:blanchedalmond;
+    margin-left: 10px;
+    float: left;
+}
+.top{
+    text-align: center;
+    padding-bottom: 5px;
+    width: 96%;
+    height: 40px;
+    border: 1px solid gray;
+    background-color:blanchedalmond;
+    display: inline-block;
+    margin-top: 10px;
+}
+.top-left2{
+    padding-top: 70px;
+    text-align: center;
+    width: 48%;
+    height: 130px;
+    border: 1px solid gray;
+    background-color:blanchedalmond;
+    display: inline-block;
+    margin-top: 10px;
+}
+.top-right2{
+    padding-top: 70px;
+    text-align: center;
+    width: 47.5%;
+    height: 130px;
+    border: 1px solid gray;
+    background-color:blanchedalmond;
+    display: inline-block;
+    margin-top: 10px;
+}
+.left{
+    padding-top: 70px;
+    text-align: center;
+    width: 31.6%;
+    height: 130px;
+    border: 1px solid gray;
+    background-color:blanchedalmond;
+    display: inline-block;
+    margin-top: 10px;
+
+}
+.center{
+    padding-top: 70px;
+    text-align: center;
+    width: 31.7%;
+    height: 130px;
+    border: 1px solid gray;
+    background-color:blanchedalmond;
+    display: inline-block;
+    margin-top: 10px;
+
+}
+.right{
+    padding-top: 70px;
+    text-align: center;
+    width: 31.7%;
+    height: 130px;
+    border: 1px solid gray;
+    background-color:blanchedalmond;
+    display: inline-block;
+    margin-top: 10px;
+}
+.bottom{
+    text-align: center;
+    padding-bottom: 5px;
+    width: 96%;
+    height: 40px;
+    border: 1px solid gray;
+    background-color:blanchedalmond;
+    display: inline-block;
+    margin-top: 10px;
+}

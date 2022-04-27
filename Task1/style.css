@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-size: 30px;
+
+}
+body a{
+    text-decoration: none;
+}
+body .face{
+    color: #3A589E;
+}
+body .tw{
+    color: #1D9BF0;
+}
+body .insta{
+    color: #0480d2;
+}
+body .linked{  
+    color: #0A66C2;
+}
